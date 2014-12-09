@@ -1,0 +1,30 @@
+
+
+.blkfriday .quad2 {
+	background-image: url("../assets/walmart/screencap.png");
+	background-size: contain;
+}
+.blkfriday .quad4 {
+	background-image: url("../assets/walmart/shit.png");
+}
+
+.blkfriday .quad0 video {
+	position: relative;
+	display: none;
+	
+}	
+
+.blkfriday .quad0 {
+	background-image: url("../assets/37thumb.png");
+}
+
+.blkfriday .quad0.expanded{
+	background-image: none;
+}
+
+.blkfriday .expanded video{
+	display: block;
+}
+
+
+

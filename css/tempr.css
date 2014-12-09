@@ -1,0 +1,16 @@
+
+.tempr .quad0 {
+	background-image: url(https://raw.githubusercontent.com/ettubrutesbro/ettubrutesbro.github.io/master/assets/temprthumb.PNG);
+}
+
+.tempr .quad0.expanded {
+	background-image: url(../assets/tempr/iphone.png);
+}
+
+.tempr .quad2 {
+	background-image: url(../assets/tempr/temprsketch.png);
+}
+
+.tempr .quad3 video {
+	border: 4px #BABABA solid;
+}

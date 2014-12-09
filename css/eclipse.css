@@ -1,0 +1,35 @@
+.eclipse .quad0 {
+	background-image: url(../assets/eclipsethumb3.png);
+}
+
+.eclipse .quad0.expanded{
+	background: none;
+}
+
+.eclipse .quad3 {
+	background-image: url(../assets/eclipse/traj.png);
+}
+
+.eclipse .quad2 {
+	background-image: url(https://raw.githubusercontent.com/ettubrutesbro/ettubrutesbro.github.io/master/assets/eclipse/FESCstats.png);
+}
+
+.eclipse .quad4 {
+	background-image: url(../assets/eclipse/iss.png);
+}
+
+.eclipse .quad5 {
+	background-image: url(../assets/eclipse/axial.png);
+}
+
+.eclipse .quad6 {
+	background-image: url(../assets/eclipse/ack.png);
+}
+
+.eclipse .quad7 {
+	background-image: url(../assets/eclipse/reentry.png);
+}
+
+.eclipse video {
+
+}
