@@ -224,7 +224,6 @@ $('a.filter').click(function(){ //clicked filter
 })
 
 $('article').click(function(event){ //clicked project item
-
 	window.location.hash = ($(this).attr('class').split(' ')[0])
 })
 
